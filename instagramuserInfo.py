@@ -1,0 +1,2 @@
+username="kullanıcıAdi"
+password="sifre"
